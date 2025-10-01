@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-my name is Joao Victor, and I want to be a software engineer!
+my name is Joao Victor, and I am a back-end software developer!
 <!--
 **Joaovictor775/Joaovictor775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
